@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ CAIXA ÁGIL // POS ENGINE
+# PDV 
 **Infraestrutura de Ponto de Venda (PDV), Controle de Estoque e Ledger de Crédito para o Comércio Popular.**
 
 [![Next.js](https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
